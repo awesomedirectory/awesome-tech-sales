@@ -1,0 +1,18 @@
+title: Awesome Tech Sales
+description: "Tools, contact databases, and resources for selling SaaS and infrastructure to engineering, IT, and tech-leadership buyers."
+url: "https://awesomedirectory.github.io"
+baseurl: "/awesome-tech-sales"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+twitter:
+  username: awesomedirectory
+  card: summary
+social:
+  name: Awesome Directory
+  links:
+    - https://github.com/awesomedirectory
+author:
+  name: Awesome Directory
+  url: https://github.com/awesomedirectory
+keywords: "tech sales tools, awesome list, curated tools, awesome tech sales"
