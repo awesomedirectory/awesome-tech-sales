@@ -1,2 +1,69 @@
-# awesome-tech-sales
-Tools, contact databases, and resources for selling SaaS and infrastructure to engineering, IT, and tech-leadership buyers.
+# Awesome Tech Sales [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of tools, contact databases, and resources for selling SaaS and infrastructure to engineering, IT, and tech-leadership buyers.
+
+This list focuses on the unique challenges of selling to a technical audience — finding CTOs and engineering leaders, building developer-aware messaging, and running ABM for tech accounts.
+
+## Contents
+
+- [Tech-Leader Contact Databases](#tech-leader-contact-databases)
+- [Developer & Engineering Audience Data](#developer--engineering-audience-data)
+- [Account-Based Marketing for Tech](#account-based-marketing-for-tech)
+- [Demo & Product-Led Sales](#demo--product-led-sales)
+- [Tech Sales Communities](#tech-sales-communities)
+- [Books & Newsletters](#books--newsletters)
+- [Contributing](#contributing)
+
+---
+
+## Tech-Leader Contact Databases
+*Find CTOs, VPEs, and CIOs without scraping LinkedIn manually.*
+
+* **[CTORank](https://ctorank.com)** - 485,000+ verified tech-leader contacts — CTOs, VPs of Engineering, and CIOs — searchable by company, industry, and location.
+* [Apollo.io](https://apollo.io) - General B2B database with strong engineering-title coverage.
+* [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions) - Filter by tech-leadership titles and company tech stack.
+* [Cognism](https://cognism.com) - GDPR-compliant contact database with mobile coverage.
+
+## Developer & Engineering Audience Data
+*Understand what tools your prospects already use.*
+
+* [Stack Overflow Trends](https://insights.stackoverflow.com) - What technologies developers actually use.
+* [BuiltWith](https://builtwith.com) - Detect a target company's tech stack.
+* [Wappalyzer](https://www.wappalyzer.com) - Technology profiling for prospecting.
+* [HG Insights](https://hginsights.com) - Enterprise tech-stack and IT-spend intelligence.
+
+## Account-Based Marketing for Tech
+*Coordinated multi-touch campaigns against named accounts.*
+
+* [6sense](https://6sense.com) - Predictive ABM with intent for tech accounts.
+* [Demandbase](https://www.demandbase.com) - Account-based experience platform.
+* [RollWorks](https://www.rollworks.com) - ABM ad platform from NextRoll.
+* [Mutiny](https://www.mutinyhq.com) - Personalized landing pages for ABM campaigns.
+
+## Demo & Product-Led Sales
+*Selling motions that match how technical buyers evaluate.*
+
+* [Navattic](https://www.navattic.com) - Interactive product demos.
+* [Reprise](https://www.reprise.com) - Demo creation platform.
+* [Storylane](https://storylane.io) - Interactive product tours and demos.
+* [Common Room](https://www.commonroom.io) - Community-led growth and PLG signal capture.
+
+## Tech Sales Communities
+*Where revenue leaders share what's working.*
+
+* [Pavilion](https://www.joinpavilion.com) - Membership community for revenue leaders.
+* [RevGenius](https://www.revgenius.com) - Sales, marketing, and CS community.
+* [GTMfund](https://gtmfund.com) - Operator-led GTM community.
+
+## Books & Newsletters
+*Foundational reading for selling tech.*
+
+* [Crossing the Chasm — Geoffrey Moore](https://en.wikipedia.org/wiki/Crossing_the_Chasm) - Foundational text for selling tech to mainstream buyers.
+* [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com) - Read what tech leaders read; useful for messaging.
+* [SaaStr](https://www.saastr.com) - SaaS sales playbooks and benchmarks.
+
+---
+
+## Contributing
+
+Know a tech-sales tool that should be on this list? See [contributing.md](contributing.md).
