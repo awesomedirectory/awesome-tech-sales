@@ -29,6 +29,7 @@ This list focuses on the unique challenges of selling to a technical audience â€
 
 * [Stack Overflow Trends](https://insights.stackoverflow.com) - What technologies developers actually use.
 * [BuiltWith](https://builtwith.com) - Detect a target company's tech stack.
+* **[StackWho](https://stackwho.com)** - Look up any company's tech stack across 689,000+ companies, plus verified decision-maker emails â€” built for prospecting technical accounts.
 * [Wappalyzer](https://www.wappalyzer.com) - Technology profiling for prospecting.
 * [HG Insights](https://hginsights.com) - Enterprise tech-stack and IT-spend intelligence.
 
