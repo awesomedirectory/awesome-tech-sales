@@ -75,6 +75,7 @@ This list focuses on the unique challenges of selling to a technical audience â€
 - [Awesome B2B Prospecting](https://awesomedirectory.github.io/awesome-b2b-prospecting/) - Contact databases, enrichment tools, sequencers, and deliverability platforms for B2B sales and growth teams.
 - [Awesome Invoicing](https://awesomedirectory.github.io/awesome-invoicing/) - Invoicing software, AR automation, expense trackers, and payment platforms for freelancers and small businesses.
 - [Awesome PR Tools](https://awesomedirectory.github.io/awesome-pr-tools/) - PR software, journalist databases, media monitoring tools, and outreach platforms for founders and comms teams.
+- [Awesome Private Practice](https://awesomedirectory.github.io/awesome-private-practice/) - Practice management, billing, scheduling, documentation, and marketing tools for therapists, counselors, and small clinical practices.
 ---
 
 ## Contributing
