@@ -76,6 +76,8 @@ This list focuses on the unique challenges of selling to a technical audience â€
 - [Awesome Invoicing](https://awesomedirectory.github.io/awesome-invoicing/) - Invoicing software, AR automation, expense trackers, and payment platforms for freelancers and small businesses.
 - [Awesome PR Tools](https://awesomedirectory.github.io/awesome-pr-tools/) - PR software, journalist databases, media monitoring tools, and outreach platforms for founders and comms teams.
 - [Awesome Private Practice](https://awesomedirectory.github.io/awesome-private-practice/) - Practice management, billing, scheduling, documentation, and marketing tools for therapists, counselors, and small clinical practices.
+- [Awesome Transcription](https://awesomedirectory.github.io/awesome-transcription/) - Speech-to-text tools â€” desktop apps, APIs, open-source models, and services for turning audio and video into usable text.
+- [Awesome Wedding Planning](https://awesomedirectory.github.io/awesome-wedding-planning/) - Seating charts and floor plans, RSVP and guest management, registries, budgeting, and tools for professional wedding planners.
 ---
 
 ## Contributing
